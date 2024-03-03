@@ -1,0 +1,19 @@
+h1 {
+  padding: 1em;
+}
+
+.badge {
+  width: 100%;
+}
+
+.card-img {
+  max-height: 24em;
+}
+
+.card-text {
+  min-height: 10rem;
+}
+
+.footer {
+  padding: 1em;
+}
